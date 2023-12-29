@@ -121,7 +121,7 @@ public class ForgotPassword extends javax.swing.JFrame {
         jTextField3.setBounds(440, 240, 320, 40);
 
         jLabel5.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
-        jLabel5.setText("Emails");
+        jLabel5.setText("Email");
         jPanel3.add(jLabel5);
         jLabel5.setBounds(440, 210, 92, 20);
 
