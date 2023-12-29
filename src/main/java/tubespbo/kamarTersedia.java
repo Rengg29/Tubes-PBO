@@ -102,7 +102,7 @@ public class kamarTersedia extends javax.swing.JFrame {
             new Object [][] {
             },
             new String [] {
-                "Nomor Kamar", "Jenis Kamar", "Harga", "Ketersediaan"
+                "Nomor Kamar", "Jenis Kamar", "Harga", "Fasilitas"
             }
         ));
         jScrollPane2.setViewportView(jTable2);
