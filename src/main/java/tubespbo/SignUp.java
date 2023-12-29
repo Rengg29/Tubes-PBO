@@ -56,7 +56,7 @@ public class SignUp extends javax.swing.JFrame {
         jLabel3.setText("Username");
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
-        jLabel4.setText("Email");
+        jLabel4.setText("Emails");
 
         jButton1.setBackground(new java.awt.Color(255, 102, 102));
         jButton1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
