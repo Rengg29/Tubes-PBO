@@ -48,7 +48,7 @@ public class bookingKamar extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Hotel Transylvania");
+        jLabel1.setText("Haotel Transylvania");
 
         jButton1.setText("Logout");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
